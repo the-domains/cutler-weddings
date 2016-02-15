@@ -1,7 +1,7 @@
 name: Cutler Weddings
 favicon: null
 layout_spectrum: 0.4716470979619771
-typography_spectrum: 0.2661173508968204
+typography_spectrum: 1
 cta:
   domain: null
   bucket: null
@@ -23,6 +23,6 @@ color:
     - '#F4F482'
   brandStrength: 0.8194950772449374
   lightness: 0.5880277343094349
-  saturation: 0.9844776878599077
+  saturation: 1
   rhythmicContrast: 0.3212698728311807
 purpose: []
