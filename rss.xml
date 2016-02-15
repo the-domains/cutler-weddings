@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[Cutler Weddings]]></title>
         <description><![CDATA[Cutler Weddings]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/cutler-weddings/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 15 Feb 2016 16:36:19 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 15 Feb 2016 16:36:29 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/cutler-weddings/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Wedding of Nick & Elyse - Sneak Peek!]]></title>
+            <description><![CDATA[<article><h1>Wedding of Nick & Elyse - Sneak Peek!</h1><p>The Wedding of Nick and Elyse. See the awesome ceremony, fun reception, and the beautiful couple on their most special day. Full version to follow! :) Music - "Call Me Maybe" - Carly Rae Jespen</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ade3b0a425add9d5b8055a85d808a9bee1f3ae64.jpg"></article>]]></description>
+            <link>https://vimeo.com/43651708</link>
+            <guid isPermaLink="false">3f0fa61a-c37c-4eb5-bac2-5ba623d3153e</guid>
+            <pubDate>Mon, 15 Feb 2016 16:36:27 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Brad & Rachel Wedding - Sneak Peek!]]></title>
             <description><![CDATA[<article><h1>Brad & Rachel Wedding - Sneak Peek!</h1><p>Take a look at an upcoming wedding I shot in Philly! Stay tuned for the whole wedding! :)</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c10ab746cfc2ed9036f271dbdab69ff7dbbdd7b5.jpg"></article>]]></description>
