@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Cutler Weddings]]></title>
+        <description><![CDATA[Cutler Weddings]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 15 Feb 2016 16:36:19 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Brad & Rachel Wedding - Sneak Peek!]]></title>
+            <description><![CDATA[<article><h1>Brad & Rachel Wedding - Sneak Peek!</h1><p>Take a look at an upcoming wedding I shot in Philly! Stay tuned for the whole wedding! :)</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c10ab746cfc2ed9036f271dbdab69ff7dbbdd7b5.jpg"></article>]]></description>
+            <link>https://vimeo.com/40130816</link>
+            <guid isPermaLink="false">6d77422d-ea4f-4546-97cb-a5a7ccb0ace5</guid>
+            <pubDate>Mon, 15 Feb 2016 16:36:17 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
