@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-21T02:57:36.768Z'
+datePublished: '2016-08-21T15:24:58.489Z'
 sourcePath: _posts/2016-02-15-lindsay-and-scott-sneak-peek.md
 isBasedOnUrl: 'https://vimeo.com/44635405'
 keywords:
@@ -18,7 +18,8 @@ author:
   - name: Mike Cutler
     url: 'http://vimeo.com/mhcphotography'
     avatar: {}
-dateModified: '2016-08-21T02:57:36.052Z'
+via: {}
+dateModified: '2016-08-21T15:24:57.911Z'
 title: Lindsay & Scott - Sneak Peek
 app_links:
   - url: 'vimeo://app.vimeo.com/videos/44635405'
@@ -40,7 +41,6 @@ description: >-
   the Mountain Top Inn Resort. In beautiful Vermont of course! :) Stay tuned for
   the full version soon! Music - "You're So Cool" - True Romance - Hans Zimmer
 inLanguage: en
-via: {}
 starred: false
 inFeed: true
 hasPage: false
