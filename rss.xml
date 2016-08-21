@@ -4,8 +4,15 @@
         <description><![CDATA[Cutler Weddings]]></description>
         <link>https://thegrid.ai/cutler-weddings/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 15 Feb 2016 16:37:22 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 21 Aug 2016 02:57:20 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/cutler-weddings/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Brad & Rachel Wedding - Sneak Peek!]]></title>
+            <description><![CDATA[<article><h1>Brad & Rachel Wedding - Sneak Peek!</h1><p>Take a look at an upcoming wedding I shot in Philly! Stay tuned for the whole wedding! :)</p></article>]]></description>
+            <link>https://vimeo.com/40130816</link>
+            <guid isPermaLink="false">6d77422d-ea4f-4546-97cb-a5a7ccb0ace5</guid>
+            <pubDate>Sun, 21 Aug 2016 02:57:15 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Olivia & Eric - Wedding Teaser]]></title>
             <description><![CDATA[<article><h1>Olivia & Eric - Wedding Teaser</h1><p>True love is felt with Olivia and Eric. Take a look at their beautiful Fall wedding in Old Bennington, Vermont! Full wedding coming soon!</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b100d5de67daaaafe40ab7e804f371319cdf3a56.jpg"></article>]]></description>
@@ -47,13 +54,6 @@
             <link>https://vimeo.com/43651708</link>
             <guid isPermaLink="false">3f0fa61a-c37c-4eb5-bac2-5ba623d3153e</guid>
             <pubDate>Mon, 15 Feb 2016 16:36:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Brad & Rachel Wedding - Sneak Peek!]]></title>
-            <description><![CDATA[<article><h1>Brad & Rachel Wedding - Sneak Peek!</h1><p>Take a look at an upcoming wedding I shot in Philly! Stay tuned for the whole wedding! :)</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c10ab746cfc2ed9036f271dbdab69ff7dbbdd7b5.jpg"></article>]]></description>
-            <link>https://vimeo.com/40130816</link>
-            <guid isPermaLink="false">6d77422d-ea4f-4546-97cb-a5a7ccb0ace5</guid>
-            <pubDate>Mon, 15 Feb 2016 16:36:17 GMT</pubDate>
         </item>
     </channel>
 </rss>
